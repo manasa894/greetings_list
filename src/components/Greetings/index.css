@@ -1,0 +1,13 @@
+.container {
+  display: flex;
+  justify-content: center;
+  min-height: 100vh;
+}
+
+.heading {
+  color: #1e293b;
+  font-family: 'Roboto';
+  font-size: 40px;
+  margin-top: 64px;
+  margin-bottom: 48px;
+}
